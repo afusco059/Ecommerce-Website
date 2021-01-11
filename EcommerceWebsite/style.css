@@ -1,0 +1,71 @@
+.mainPic{
+ 
+ position: absolute;
+ left: 0px;
+ width: 60%;
+ 
+ 
+}
+#text{
+    text-align: center;
+}
+p.Tsize{
+    font-size: large;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  width: 60.1%;
+  left: 0px;
+  border: 0px;
+}
+
+li {
+  float: left;
+  
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.about{
+  text-align: center;
+}
+#location{
+  text-align: center;
+}
+#address{
+margin-left: 475px;
+}
+.map{
+  margin-left: 400PX;
+  margin-bottom: 200px;
+ 
+}
+.title{
+float: right; 
+margin-right: 300px;
+margin-top: 500px;
+
+}
+.logo{
+  position: absolute;
+  right: 0px;
+  width: 300px;
+  margin-right: 250px;
+  margin-top: 250px;
+}
+ 
